@@ -13,7 +13,6 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 
@@ -40,9 +39,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammedmusthafashahalv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/muhammedmusthafashahalv/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Musthafa-blue"></a>
 <a href="https://www.instagram.com/musthafa__vakkayil/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Musthafa__Vakkayil-red"></a>
-<a href="musthuvakkayil@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="musthuvakkayil@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-musthuvakkayil-red"></a>
 </p>
 
 ⭐️ From [muhammed-musthafa-s-v](https://github.com/muhammed-musthafa-s-v)
