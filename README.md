@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and problem solving and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and problems and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at CUSAT.
-- 🌱 I am passionate about contribuing, being part of a community (that's why i'm in so many...) and music.
+- 🌱 &nbsp; I am passionate about contribuing, being part of a community (that's why i'm in so many...) and music.
 - ✍️ &nbsp; Learning more about Python, Data Science and Machine Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
