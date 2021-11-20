@@ -29,10 +29,7 @@
   
   <br/>
   
- <a href="https://github.com/muhammed-musthafa-s-v">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammed-musthafa-s-v&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-musthafa-s-v&theme=buefy&layout=compact" />
-</a>
+
 
 <br/>
 
@@ -45,3 +42,4 @@
 </p>
 
 
+⭐️ From [muhammed-musthafa-s-v](https://github.com/muhammed-musthafa-s-v)
