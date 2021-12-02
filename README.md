@@ -2,7 +2,11 @@
 
 <h2> Hey there! I'm Musthafa 👋.</h2>
 
+<a href="https://musthafav.herokuapp.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Check%20My-Portfolio-red"></a>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+
 
 - 🤔 &nbsp; Exploring new technologies and problems and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at CUSAT.
