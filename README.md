@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Musthafa �.</h2>
+<h2> Hey there! I'm Musthafa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">.</h2>
 
 <a href="https://musthafav.herokuapp.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Check%20My-Portfolio-red"></a>
 
