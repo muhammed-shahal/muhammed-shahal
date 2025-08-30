@@ -1,54 +1,60 @@
+<h2> Hi there! I'm Musthafa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
-
-<h2> Hey there! I'm Musthafa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">.</h2>
-
-<a href="https://musthafav.herokuapp.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Check%20My-Portfolio-red"></a>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-
-
-- 🤔 &nbsp; Exploring new technologies and problems and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at CUSAT.
-- 🌱 &nbsp; I am passionate about contribuing, being part of a community (that's why i'm in so many...) and music.
-- ✍️ &nbsp; Learning more about Python, Data Science and Machine Learning.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-  <br/>
-  
-   <a href="https://github.com/muhammed-musthafa-s-v">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammed-musthafa-s-v&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-musthafa-s-v&theme=buefy&layout=compact" />
+<a href="https://musthafav.herokuapp.com/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Check%20My-Portfolio-red">
 </a>
-  
 
+---
 
-<br/>
+### 👨🏻‍💻 About Me  
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+I’ve been enjoying web development ever since I built my first Go project.  
+The simplicity and consolidated toolchain of Go made me rethink my time in the JavaScript ecosystem.  
+
+🔍 I’m currently looking for a **backend developer role**—ideally working with **Go** or **Python**.  
+🚀 I’d especially love to join a startup, contribute to a tight-knit team, and make an impact quickly.  
+
+If you’re hiring, let’s connect!  
+
+---
+
+### 🧑‍💻 What I’m Into  
+
+- 🤔 Always curious about improving and optimizing my code  
+- 🎯 Practicing data structures, algorithms, and solving problems on LeetCode  
+- ✍️ Exploring Artificial Intelligence & Machine Learning  
+
+---
+
+### 🛠 Tech Stack  
+
+**Languages**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Frameworks**  
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🤝 Connect with Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammedmusthafashahalv/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Musthafa-blue"></a>
-<a href="https://www.instagram.com/musthafa__vakkayil/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Musthafa__Vakkayil-red"></a>
-<a href="musthuvakkayil@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-musthuvakkayil%40gmail.com-red"></a>
+  <a href="https://www.linkedin.com/in/musthafashahal">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Musthafa-blue">
+  </a>
+  <a href="mailto:musthuvakkayil@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-musthuvakkayil%40gmail.com-red">
+  </a>
 </p>
-
-
-⭐️ From [muhammed-musthafa-s-v](https://github.com/muhammed-musthafa-s-v)
