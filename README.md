@@ -1,6 +1,6 @@
 <h2> Hi there! I'm Musthafa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
-<a href="https://musthafav.herokuapp.com/">
+<a href="muhammed-shahal.github.io">
   <img alt="Portfolio" src="https://img.shields.io/badge/Check%20My-Portfolio-red">
 </a>
 
